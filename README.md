@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**Mahdi-zco/Mahdi-zco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there! 👋 I'm Mahdi</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+🧠 Learner of bugs & wizard of semicolons; still searching for the perfect coffee/code combo ☕  
+💻 Java & Python enthusiast on the road to Full-Stack greatness
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🐣 Learning Journey
+
+- ☕ Brewing Java skills one exception at a time  
+- 🐍 Soon diving into Python with curiosity  
+- ⚙️ Previously explored C – got battle scars and bragging rights!
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+</p>
+
+---
+
+
+### 📫 Connect With Me
+
+- 📧 Email: mahdi.zarbi.a9@gmail.com  
+- 💬 Telegram: [@mahdi_zc](https://t.me/mahdi_zc)  
+- 💼 LinkedIn: [linkedin.com/in/mahdi](www.linkedin.com/in/mahdi-zarbi-84874a347)
+
+---
+
+> “Still learning, still coding, still having fun.” 🌟
